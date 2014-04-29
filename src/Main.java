@@ -6,8 +6,10 @@ public class Main {
 //        Array ar = new Array();
 //        ar.arrayCopy();
 //        ar.arrayCopyNew();
-        WhileDoWhile whileTest = new WhileDoWhile();
-        whileTest.whileTest();
-        whileTest.doWhileTest();
+//        WhileDoWhile whileTest = new WhileDoWhile();
+//        whileTest.whileTest();
+//        whileTest.doWhileTest();
+        ForDemo forDemo = new ForDemo();
+        forDemo.enhancedForDemo();
     }
 }
