@@ -9,7 +9,12 @@ public class Main {
 //        WhileDoWhile whileTest = new WhileDoWhile();
 //        whileTest.whileTest();
 //        whileTest.doWhileTest();
-        ForDemo forDemo = new ForDemo();
-        forDemo.enhancedForDemo();
+//        ForDemo forDemo = new ForDemo();
+//        forDemo.enhancedForDemo();
+        BranchingStatements statements = new BranchingStatements();
+        statements.breakStatements();
+        statements.breakWithLabelStatements();
+        statements.continueStatements();
+        statements.continueWithLabelStatements();
     }
 }
